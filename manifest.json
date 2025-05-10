@@ -1,0 +1,27 @@
+{
+  "name": "PWA Counter",
+  "short_name": "Counter",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "icons": [
+  {
+    "src": "icons/icon-48x48.png",
+    "type": "image/png",
+    "sizes": "48x48"
+  },
+  {
+    "src": "icons/icon-72x72.png",
+    "type": "image/png",
+    "sizes": "72x72"
+  },
+  {
+    "src": "icons/icon-96x96.png",
+    "type": "image/png",
+    "sizes": "96x96"
+  }
+  
+]
+
+}
